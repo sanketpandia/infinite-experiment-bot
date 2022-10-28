@@ -1,0 +1,23 @@
+{
+  "name": "infinite-experiment-bot",
+  "version": "1.0.0",
+  "description": "",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sanketpandia/infinite-experiment-bot.git"
+  },
+  "keywords": [
+    "infinite-flight",
+    "bot"
+  ],
+  "author": "Sanket Pandia",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/sanketpandia/infinite-experiment-bot/issues"
+  },
+  "homepage": "https://github.com/sanketpandia/infinite-experiment-bot#readme"
+}
