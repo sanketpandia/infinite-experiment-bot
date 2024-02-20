@@ -2,7 +2,7 @@ const { Client, IntentsBitField } = require("discord.js");
 const eventHandler = require("./handlers/eventHandler");
 const dotenv = require("dotenv").config();
 
-const { BOT_ID, TOKEN1 } = process.env;
+const { TOKEN } = process.env;
 
 const client = new Client({
   intents: [],
@@ -10,4 +10,4 @@ const client = new Client({
 
 eventHandler(client);
 
-client.login(TOKEN1);
+client.login(TOKEN);

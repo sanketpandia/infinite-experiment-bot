@@ -4,7 +4,7 @@ Description=The Infinite Experiment bot
 [Service]
 User=root
 WorkingDirectory=/root/projects/infinite-experiment-bot
-ExecStart=/usr/bin/npm start
+ExecStart=/usr/bin/node .
 Restart=always
 
 [Install]
