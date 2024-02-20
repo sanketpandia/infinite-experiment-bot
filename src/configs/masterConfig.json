@@ -1,0 +1,10 @@
+{
+    "botIntents": [
+        "DIRECT_MESSAGES"
+    ],
+    "botSettings": {
+        "testServer": "770289800779268126",
+        "clientId": "1207703157220835381",
+        "devs": ["668664447950127154"]
+    }
+}
