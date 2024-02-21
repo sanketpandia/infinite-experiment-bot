@@ -59,7 +59,7 @@ module.exports = {
         paginationButtons[1]
       );
       await i.reply(
-        `${i.user} has selected ${selection + 1}!\n Page ${selection} of ${
+        `${i.user} has selected ${selection + 1}!\n Page ${selection + 1} of ${
           messages.length
         }`
       );
